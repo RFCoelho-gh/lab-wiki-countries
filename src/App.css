@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.blue-nav {
+  background-color: rgb(66, 66, 165);
+  color: whitesmoke;
+}
+
+.text-align-left {
+  text-align: left;
+}
